@@ -157,7 +157,7 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": null,
+                "landingPage": "https://zenodo.org/records/8419811",
                 "authorizations": [
                     {
                         "value": "public"
