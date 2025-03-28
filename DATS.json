@@ -182,6 +182,22 @@
                     "value": "1"
                 }
             ]
+        },
+	{
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "Canadian"
+                }
+            ]
+        },
+	{
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "unknown"
+                }
+            ]
         }
     ],
     "dates": [
@@ -200,7 +216,10 @@
     ],
     "types": [
         {
-            "value": "unknown"
+            "information": {
+                "value": "unknown"
+            }
         }
     ]
 }
+
