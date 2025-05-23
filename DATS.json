@@ -1,0 +1,224 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.8419808",
+        "identifierSource": "DOI"
+    },
+    "title": "Results of the ISMRM 2020 joint Reproducible Research & Quantitative MR study groups reproducibility challenge on phantom and human brain T<sub>1</sub> mapping",
+    "creators": [
+        {
+            "name": "Mathieu Boudreau"
+        },
+        {
+            "name": "Agah Karakuzu"
+        },
+        {
+            "name": "Julien Cohen-Adad"
+        },
+        {
+            "name": "Ecem Bozkurt"
+        },
+        {
+            "name": "Madeline Carr"
+        },
+        {
+            "name": "Marco Castellaro"
+        },
+        {
+            "name": "Luis Concha"
+        },
+        {
+            "name": "Mariya Doneva"
+        },
+        {
+            "name": "Seraina Dual"
+        },
+        {
+            "name": "Alex Ensworth"
+        },
+        {
+            "name": "Alexandru Foias"
+        },
+        {
+            "name": "V\u00e9ronique Fortier"
+        },
+        {
+            "name": "Refaat E. Gabr"
+        },
+        {
+            "name": "Guillaume Gilbert"
+        },
+        {
+            "name": "Carri K. Glide-Hurst"
+        },
+        {
+            "name": "Matthew Grech-Sollars"
+        },
+        {
+            "name": "Siyuan Hu"
+        },
+        {
+            "name": "Oscar Jalnefjord"
+        },
+        {
+            "name": "Jorge Jovicich"
+        },
+        {
+            "name": "K\u00fcbra Keskin"
+        },
+        {
+            "name": "Peter Koken"
+        },
+        {
+            "name": "Anastasia Kolokotronis"
+        },
+        {
+            "name": "Simran Kukran"
+        },
+        {
+            "name": "Nam. G. Lee"
+        },
+        {
+            "name": "Ives R. Levesque"
+        },
+        {
+            "name": "Bochao Li"
+        },
+        {
+            "name": "Dan Ma"
+        },
+        {
+            "name": "Burkhard M\u00e4dler"
+        },
+        {
+            "name": "Nyasha Maforo"
+        },
+        {
+            "name": "Jamie Near"
+        },
+        {
+            "name": "Erick Pasaye"
+        },
+        {
+            "name": "Alonso Ramirez-Manzanares"
+        },
+        {
+            "name": "Ben Statton"
+        },
+        {
+            "name": "Christian Stehning"
+        },
+        {
+            "name": "Stefano Tambalo"
+        },
+        {
+            "name": "Ye Tian"
+        },
+        {
+            "name": "Chenyang Wang"
+        },
+        {
+            "name": "Kilian Weis"
+        },
+        {
+            "name": "Niloufar Zakariaei"
+        },
+        {
+            "name": "Shuo Zhang"
+        },
+        {
+            "name": "Ziwei Zhao"
+        },
+        {
+            "name": "Nikola Stikov"
+        }
+    ],
+    "description": "<p>This dataset includes both raw data and processed T1 maps obtained from the 2020 challenge on inversion recovery T1 mapping organized by the International Society in Magnetic Resonance in Medicine (ISMRM) Reproducible Research Study Group (RRSG). For a comprehensive overview of the data distribution submitted for this challenge, please visit <a href=\"https://rrsg2020.db.neurolibre.org/\">https://rrsg2020.db.neurolibre.org</a>. It&#39;s important to note that this dataset exclusively comprises ISMRM-NIST system phantom data.</p>\n\n<p>Dataset provided for NeuroLibre preprint. Author repo: https://github.com/rrsg2020/paper NeuroLibre fork:https://github.com/roboneurolibre/paper</p>\n\n<p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/14\">NeuroLibre technical screening.</a></p>\n\n<p><strong><a href=\"https://neurolibre.org\">https://neurolibre.org</a></strong></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 217.1,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/records/8419809",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "Canadian"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "unknown"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2023-10-09 05:23:19",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2023-10-09 14:26:59",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "unknown"
+            }
+        }
+    ]
+}
